@@ -1,10 +1,3 @@
-# SQL Interview Questions
-
-This repo includes SQL solutions to common interview-style problems:
-- JOINs
-- Self-joins
-- Aggregations
-- Window functions
-- Subqueries
-
-All queries are written in ANSI SQL and mirror real data engineering interviews.
+### 🔹 [sql-interview-questions](https://github.com/varshavamanmurthy-bot/sql-interview-questions)  
+A collection of SQL problems showcasing joins, window functions, aggregations, and subqueries used in analytical workflows.  
+**Tech:** SQL · Window Functions · Analytics  
